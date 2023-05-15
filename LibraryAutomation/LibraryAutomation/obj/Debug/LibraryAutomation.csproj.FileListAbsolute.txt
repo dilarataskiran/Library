@@ -1,0 +1,24 @@
+C:\Users\Oğuz\Desktop\Yeni klasör (2)\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\Oğuz\Desktop\Yeni klasör (2)\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\Oğuz\Desktop\Yeni klasör (2)\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\Oğuz\Desktop\Yeni klasör (2)\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\Oğuz\Desktop\Yeni klasör (2)\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oğuz\Desktop\Yeni klasör (2)\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz\Desktop\Yeni klasör (2)\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\Oğuz\Desktop\Yeni klasör (2)\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\koguz\Desktop\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\koguz\Desktop\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\koguz\Desktop\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\koguz\Desktop\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\koguz\Desktop\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\koguz\Desktop\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\koguz\Desktop\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\koguz\Desktop\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\Huawei\Desktop\veritabani_proje\Kaynak Dosyaları\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\Huawei\Desktop\veritabani_proje\Kaynak Dosyaları\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\Huawei\Desktop\veritabani_proje\Kaynak Dosyaları\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\Huawei\Desktop\veritabani_proje\Kaynak Dosyaları\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\Huawei\Desktop\veritabani_proje\Kaynak Dosyaları\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\Huawei\Desktop\veritabani_proje\Kaynak Dosyaları\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\veritabani_proje\Kaynak Dosyaları\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\Desktop\veritabani_proje\Kaynak Dosyaları\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
