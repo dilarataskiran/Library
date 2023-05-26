@@ -53,7 +53,7 @@ namespace LibraryAutomation
                 }
                 else
                 {
-                    LastID = (Int32)cmd.ExecuteScalar(); //Burda Query'de istediğimiz OUTPUT'U DÖNDÜRÜR(BEN BU PROJEDE OUTPUT OLARAK ID ISTEDIM SADECE.FARKLI DEĞİŞKENLERİ OUTPUT OLARAK ALMAK İSTERSENİZ BURDA GÜNCELLEME YAPMALISINIZ.)
+                    LastID = (Int32)cmd.ExecuteScalar(); //Burda Query'de istediğimiz OUTPUT'U DÖNDÜRÜR
                      
                 }
                 Baglanti.Close();
